@@ -1,0 +1,7 @@
+what is programming ?
+
+-> you given a set of instruction to computers
+-> The computers executes all instruction in spectific order
+-> There should be enough information for computers to decide what to do in all situations 
+-> Thest instruction or steps are called a proram or code 
+-> does computers understand english
